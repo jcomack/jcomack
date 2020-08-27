@@ -1,4 +1,4 @@
-# Jimmy Comack 👋
+# Jimmy Comack
 
 ## 🔭 I’m currently working on
 
