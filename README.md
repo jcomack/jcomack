@@ -1,16 +1,22 @@
-### Hi there 👋
+# Jimmy Comack 👋
 
-<!--
-**jcomack/jcomack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
 
-Here are some ideas to get you started:
+- Developing and maintaining [developer.yoast.com](https://developer.yoast.com)
+- Developing new features for Yoast SEO
+- Creating my own Pong game in Lua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+
+- Electrical engineering (mostly small hobby-type stuff)
+- Lua
+- To play the guitar
+
+## 💬 Ask me about
+
+- My three-legged cat named Pi
+- Pretty much anything else
+
+## 📫 How to reach me
+- [Twitter](https://www.twitter.com/jjcomack)
+- On here
