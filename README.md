@@ -2,9 +2,7 @@
 
 ## 🔭 I’m currently working on
 
-- Developing and maintaining [developer.yoast.com](https://developer.yoast.com)
-- Developing new features for Yoast SEO
-- Creating my own Pong game in Lua
+- WordPress website development
 
 ## 🌱 I’m currently learning
 
