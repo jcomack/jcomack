@@ -2,13 +2,16 @@
 
 ## 🔭 I’m currently working on
 
-- WordPress website development
+- WordPress/Eleventy website development
+- Zapier automations
+- API integrations
 
 ## 🌱 I’m currently learning
 
 - Electrical engineering (mostly small hobby-type stuff)
 - Lua
 - To play the guitar
+- Woodworking
 
 ## 💬 Ask me about
 
