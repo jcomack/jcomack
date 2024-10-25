@@ -5,6 +5,7 @@
 - WordPress/Eleventy website development
 - Zapier automations
 - API integrations
+- Vue/Angular development
 
 ## 🌱 I’m currently learning
 
