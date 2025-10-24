@@ -2,16 +2,15 @@
 
 ## 🔭 I’m currently working on
 
-- WordPress/Eleventy website development
-- Zapier automations
+- WordPress/Laravel/Eleventy website development
+- Zapier/n8n automations
 - API integrations
 - Vue/Angular development
 
 ## 🌱 I’m currently learning
 
 - Electrical engineering (mostly small hobby-type stuff)
-- Lua
-- To play the guitar
+- Symfony
 - Woodworking
 
 ## 💬 Ask me about
@@ -20,7 +19,6 @@
 - Pretty much anything else
 
 ## 📫 How to reach me
-- [Twitter](https://www.twitter.com/jjcomack)
 - On here
 
 [![@jjcomack's Holopin board](https://holopin.me/jjcomack)](https://holopin.io/@jjcomack)
